@@ -113,7 +113,7 @@
   text-decoration: none;
   text-align: center;
   display: block;
-  margin: 1.5rem auto;
+  margin: -1.5rem auto 1rem;
   width: 220px;
   font-size: 1.375rem;
   @include sans_light;
@@ -173,7 +173,7 @@
     }
   }
 
-  .resume-item-copy {
+  .resume-item-copy, .executive-summary {
     margin: .75rem 0 0;
     text-align: justify;
   }
