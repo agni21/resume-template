@@ -1,19 +1,60 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Cuspera
+- company: Cuspera <small>Bengaluru</small>
+  position: Lead Front-End Developer
+  duration: Feb, 2019 &mdash; Present
+  summary: Starting as a sole frontend developer to leading a team of four, working closely with the product team to understand the business requirement and translate it into feasible tech implementations.
+    <ul class="resume-item-list">
+      <li>Maintaining the legacy code base and revamping it to the latest performance standards with gradual changes as the product evolved over the years</li>
+      <li>Scaling the Cuspera website from a few hundred dynamic pages to about forty thousand pages indexed by google today</li>
+      <li>Optimizing SEO and performance metrics like Core Web Vitals, Mobile Usability, Accessibility, and keeping it up to date with the latest SEO standards</li>
+      <li>Worked with product and backend teams to design REST APIs</li>
+      <li>Mentored testing team to automate the e2e testing process using tools like JUnit, TestNG, Selenium</li>
+      <li>Created micro frontend plugins for clients which can be customized according to host branding and requirements</li>
+      <li>Created dashboards for data visualization with access control using Angular, OAuth2, Chart.js, Ngx-Charts</li>
+    </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# - position: Associate Product Manager
+#   duration: Jan, 2022 &mdash; Present
+#   summary: Working with Sketch, Zeplin, GA.
+
+# contenteditable="true"
+
+# GlowRoad
+- company: GlowRoad <small>Bengaluru</small>
+  position: Senior Software Engineer
+  duration: April, 2018 &mdash; Feb, 2019
+  summary:
+    <ul class="resume-item-list">
+      <li>Responsible for maintaining and making incremental changes to a multi-page web app with java and handlebar for glowroad.com an e-commerce reselling platform</li>
+      <li>Rebuilt existing multi-shop e-commerce web app(myshopprime.com) with ReactJS and Redux with complete user experience redesign in 6 months, reducing bounce rate by 40% among improvement in other performance metrics</li>
+      <li>Working closely with the product team to setup a design system for myshopprime.com and developed frontend modules in ReactJS</li>
+      <li>Implemented various features like shopping cart, incentives, order fulfillment, integration with Facebook shop etc.</li>
+      <li>Worked on SEO; Implemented AMP pages for frequently visited pages</li>
+      <li>Integrated Real-time notifications system with WebSocket connection</li>
+      <li>Integrated Gupshup SMS API, ECOM Express delivery API, Email SMS and Push notification for the site</li>
+    </ul>
+
+# Betatest
+- company: Betatest Solutions Pvt Ltd <small>Bengaluru</small>
+  position: Software Engineer
+  duration: Jan, 2017 &mdash; April, 2018
+  summary: Working with a range of clients on web applications developing, deploying and maintaining new products, adding realtime features to existing products, and providing technical support.
+    <ul class="resume-item-list">
+      <li>Working with design team to translate the UI/UX design wireframes to actual code. Ensuring responsive design and cross browser compatibility.</li>
+      <li>SEO friendly Single Page Applications, Firebase, AWS, Serverless Image Handlers.</li>
+      <li>Working with stack including, but not limited to, ReactJS, Redux, jQuery, Bootstrap, Wordpress, Ruby on Rails, and MySQL.</li>
+    </ul>
+
+# Monosoz
+- company: Monosoz <small>New Delhi</small>
+  position: Co-Founder & CTO
+  duration: July, 2015 &mdash; Jan, 2017
+  summary: Developed and maintained e-commerce platform (Food delivery) for Monosoz using PHP(Laravel). As the sole developer took it from the first line of code to customers and revenue. <ul class="resume-item-list"><li>Responsible for all aspects of architecture, development, test strategy and deployment.</li><li>Used tools like Bootstrap, jQuery, Vue.js, AJAX, MySQL, etc. to create a responsive and  interactive web interface.</li><li>Worked with several web APIs like Google Maps, OAuth2.0, PayU, Pusher, MailChimp, etc. to deliver features like Online Payment, SMS, Email and Push Notifications, Order Tracking, etc.</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Freelance
+- company: Freelance Web Development
+  position: Web Developer
+  duration: Aug, 2014  &mdash; July, 2015
+  summary: As a freelance web developer I was building CMS solutions for clients using Wordpress. As a full stack developer my responsibilities included setting up hosting, domains, databases and delivering an easy to use custom Wordpress theme with custom Templates and Responsive layouts.

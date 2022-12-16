@@ -1,15 +1,23 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: Banaras Cycling Club
+  role: Member in Good Standing
+  year: 2020 &mdash; Present
+  url: https://www.strava.com/clubs/509715
+  # summary: Among one of the most active members of the club.
+
+# Giraffe Tools
+- organization: Giraffe Tools
+  role: Contributor
+  year: 2018
+  url: https://giraffe.tools/
+  summary: Tools for Graphical Interface for Reproducible Analysis oF workFlow Experiments, Giraffe Tools are applications that make it easier to analyse all kinds of data! <ul class="resume-item-list"><li>Working on Django backend with React at client side.</li><li>Fixed code sourced from parent project and implemented new features.</li><li>Worked on Porcupine Tool to remove jsPlumb dependency.</li></ul>
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+# BloodConnect
+- organization: BloodConnect
+  role: Core Team Member
+  year:   2011  &mdash; 2012
+  url: https://www.bloodconnect.org/
+  summary: Managed social media accounts to increase web presence and engagement.
