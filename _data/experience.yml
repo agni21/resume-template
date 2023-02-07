@@ -6,10 +6,9 @@
   summary: Starting as a sole frontend developer to leading a team of four, working closely with the product team to understand the business requirement and translate it into feasible tech implementations.
     <ul class="resume-item-list">
       <li>Maintaining the legacy code base and revamping it to the latest performance standards with gradual changes as the product evolved over the years</li>
-      <li>Scaling the Cuspera website from a few hundred dynamic pages to about forty thousand pages indexed by google today</li>
+      <li>Scaling the Cuspera website from a few hundred dynamic pages to about forty thousand pages indexed by google</li>
       <li>Optimizing SEO and performance metrics like Core Web Vitals, Mobile Usability, Accessibility, and keeping it up to date with the latest SEO standards</li>
       <li>Worked with product and backend teams to design REST APIs</li>
-      <li>Mentored testing team to automate the e2e testing process using tools like JUnit, TestNG, Selenium</li>
       <li>Created micro frontend plugins for clients which can be customized according to host branding and requirements</li>
       <li>Created dashboards for data visualization with access control using Angular, OAuth2, Chart.js, Ngx-Charts</li>
     </ul>
@@ -43,7 +42,7 @@
     <ul class="resume-item-list">
       <li>Working with design team to translate the UI/UX design wireframes to actual code. Ensuring responsive design and cross browser compatibility.</li>
       <li>SEO friendly Single Page Applications, Firebase, AWS, Serverless Image Handlers.</li>
-      <li>Working with stack including, but not limited to, ReactJS, jQuery, Bootstrap, Wordpress, Ruby on Rails, and MySQL.</li>
+      <li>Working with stack including, but not limited to, jQuery, Bootstrap, Wordpress, Ruby on Rails, and MySQL.</li>
     </ul>
 
 # Monosoz
