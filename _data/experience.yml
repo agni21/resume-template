@@ -4,9 +4,12 @@
 - company: SpotOn(US) <small>Bengaluru</small>
   position: Front-End Developer(SDE III)
   duration: March 2023 &mdash; Present
-  summary: Working as Front-End Developer
+  summary: SpotOn, headquartered in San Francisco, California, is a leading developer of software and payment technology for the retail and restaurant sectors.
     <ul class="resume-item-list">
-      <li>Micro frontend architecture</li>
+      <li>Utilized Micro Frontend architecture with React to deliver secure, scalable, and modular frontend solutions for payment and banking products, ensuring high performance and maintainability.</li>
+      <li>Collaborated seamlessly with global product and tech teams to uphold code standards and ensure alignment across projects.</li>
+      <li>Contributed UI Components to the internal design library being used across the company.</li>
+      <li>Working with React, TypeScript, Redux, Tanstack Query, Yup, Formik, and Storybook to deliver a dynamic and responsive user interface and streamline development workflows.</li>
     </ul>
 
 # Cuspera
@@ -37,8 +40,8 @@
   summary:
     <ul class="resume-item-list">
       <li>Maintained and implemented incremental changes to a multi-page web app using Java and Handlebars for GlowRoad.com, an e-commerce reselling platform that was later acquired by Amazon.</li>
-      <li>Led the reconstruction of the existing multi-shop e-commerce web app, MyShopPrime.com, within a 6-month timeframe using ReactJS and Redux. Executed a comprehensive user experience redesign resulting in a remarkable 40% reduction in bounce rate and notable improvements in other performance metrics.</li>
-      <li>Collaborated closely with the product team to establish a design system for MyShopPrime.com and actively contributed to the development of frontend modules using ReactJS.</li>
+      <li>Led the reconstruction of the existing multi-shop e-commerce web app, MyShopPrime.com, within a 6-month timeframe using React and Redux. Executed a comprehensive user experience redesign resulting in a remarkable 40% reduction in bounce rate and notable improvements in other performance metrics.</li>
+      <li>Collaborated closely with the product team to establish a design system for MyShopPrime.com and actively contributed to the development of frontend modules using React.</li>
       <li>Implemented various features including shopping cart, incentives, order fulfillment, and seamless integration with Facebook shop to enhance user engagement and drive sales.</li>
       <li>Spearheaded SEO optimization initiatives, including the implementation of Accelerated Mobile Pages (AMP) for frequently visited pages, to improve search engine visibility and website performance.</li>
       <li>Engineered a real-time notifications system using WebSocket connections to deliver timely updates to users, thereby enhancing user engagement and retention.</li>
@@ -54,7 +57,7 @@
       <li>Provided technical support to clients, ensuring their needs were met effectively and their applications ran smoothly.</li>
       <li>Worked closely with the design team to translate UI/UX design wireframes into functional code, prioritizing responsive design and cross-browser compatibility.</li>
       <li>SEO-friendly Single Page Applications, Firebase, AWS, Serverless Image Handlers</li>
-      <li>Working with stack including, but not limited to, jQuery, Bootstrap, Wordpress, PHP, Ruby on Rails, and MySQL.</li>
+      <li>Working with a stack including, but not limited to, jQuery, Bootstrap, WordPress, PHP, Ruby on Rails, and MySQL.</li>
     </ul>
 
 # Monosoz
