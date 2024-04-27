@@ -3,7 +3,7 @@
 # SpotOn
 - company: SpotOn(US) <small>Bengaluru</small>
   position: Front-End Developer(SDE III)
-  duration: March, 2023 &mdash; Present
+  duration: March 2023 &mdash; Present
   summary: Working as Front-End Developer
     <ul class="resume-item-list">
       <li>Micro frontend architecture</li>
@@ -12,8 +12,8 @@
 # Cuspera
 - company: Cuspera <small>Bengaluru</small>
   position: Lead Front-End Developer
-  duration: Feb, 2019 &mdash; March, 2023
-  summary: Transitioned from sole frontend developer to team leader, guiding a team of four developers. Collaborated closely with the product team to understand business requirements and translate them into feasible technical implementations.
+  duration: Feb 2019 &mdash; March 2023
+  summary: Transitioned from sole frontend developer to leading a team of four, overseeing project development and ensuring alignment with business objectives.
     <ul class="resume-item-list">
       <li>Maintained and revamped the legacy codebase to meet the latest performance standards, implementing gradual changes to adapt to the evolving product landscape.</li>
       <li>Spearheaded the translation of UI/UX designs into executable code, ensuring seamless integration and delivery of user-centric features, ultimately enhancing user experiences.</li>
@@ -25,46 +25,53 @@
     </ul>
 
 # - position: Associate Product Manager
-#   duration: Jan, 2022 &mdash; Present
+#   duration: Jan 2022 &mdash; Present
 #   summary: Working with Sketch, Zeplin, GA.
 
 # contenteditable="true"
 
 # GlowRoad
-- company: GlowRoad <small>Bengaluru</small>
+- company: GlowRoad(Acquired by Amazon) <small>Bengaluru</small>
   position: Senior Software Engineer
-  duration: April, 2018 &mdash; Feb, 2019
+  duration: April 2018 &mdash; Feb 2019
   summary:
     <ul class="resume-item-list">
-      <li>Responsible for maintaining and making incremental changes to a multi-page web app with java and handlebar for glowroad.com an e-commerce reselling platform</li>
-      <li>Rebuilt existing multi-shop e-commerce web app(myshopprime.com) with ReactJS and Redux with complete user experience redesign in 6 months, reducing bounce rate by 40% among improvement in other performance metrics</li>
-      <li>Working closely with the product team to setup a design system for myshopprime.com and developed frontend modules in ReactJS</li>
-      <li>Implemented various features like shopping cart, incentives, order fulfillment, integration with Facebook shop etc.</li>
-      <li>Worked on SEO; Implemented AMP pages for frequently visited pages</li>
-      <li>Integrated Real-time notifications system with WebSocket connection</li>
-      <li>Integrated Gupshup SMS API, ECOM Express delivery API, Email SMS and Push notification for the site</li>
+      <li>Maintained and implemented incremental changes to a multi-page web app using Java and Handlebars for GlowRoad.com, an e-commerce reselling platform that was later acquired by Amazon.</li>
+      <li>Led the reconstruction of the existing multi-shop e-commerce web app, MyShopPrime.com, within a 6-month timeframe using ReactJS and Redux. Executed a comprehensive user experience redesign resulting in a remarkable 40% reduction in bounce rate and notable improvements in other performance metrics.</li>
+      <li>Collaborated closely with the product team to establish a design system for MyShopPrime.com and actively contributed to the development of frontend modules using ReactJS.</li>
+      <li>Implemented various features including shopping cart, incentives, order fulfillment, and seamless integration with Facebook shop to enhance user engagement and drive sales.</li>
+      <li>Spearheaded SEO optimization initiatives, including the implementation of Accelerated Mobile Pages (AMP) for frequently visited pages, to improve search engine visibility and website performance.</li>
+      <li>Engineered a real-time notifications system using WebSocket connections to deliver timely updates to users, thereby enhancing user engagement and retention.</li>
+      <li>Integrated third-party APIs such as Gupshup SMS API, ECOM Express delivery API, and email, SMS, and push notification services.</li>
     </ul>
 
 # Betatest
 - company: Betatest Solutions Pvt Ltd <small>Bengaluru</small>
   position: Software Engineer
-  duration: Jan, 2017 &mdash; April, 2018
-  summary: Working with a range of clients on web applications developing, deploying and maintaining new products, adding realtime features to existing products, and providing technical support.
+  duration: Jan 2017 &mdash; April 2018
+  summary: Collaborated with a diverse range of clients on web applications, focusing on developing, deploying, and maintaining new products while enhancing existing ones with real-time features.
     <ul class="resume-item-list">
-      <li>Working with design team to translate the UI/UX design wireframes to actual code. Ensuring responsive design and cross browser compatibility.</li>
-      <li>SEO friendly Single Page Applications, Firebase, AWS, Serverless Image Handlers.</li>
-      <li>Working with stack including, but not limited to, jQuery, Bootstrap, Wordpress, Ruby on Rails, and MySQL.</li>
+      <li>Provided technical support to clients, ensuring their needs were met effectively and their applications ran smoothly.</li>
+      <li>Worked closely with the design team to translate UI/UX design wireframes into functional code, prioritizing responsive design and cross-browser compatibility.</li>
+      <li>SEO-friendly Single Page Applications, Firebase, AWS, Serverless Image Handlers</li>
+      <li>Working with stack including, but not limited to, jQuery, Bootstrap, Wordpress, PHP, Ruby on Rails, and MySQL.</li>
     </ul>
 
 # Monosoz
 - company: Monosoz <small>New Delhi</small>
   position: Co-Founder & CTO
-  duration: July, 2015 &mdash; Jan, 2017
-  summary: Developed and maintained e-commerce platform (Food delivery) for Monosoz using PHP(Laravel). As the sole developer took it from the first line of code to customers and revenue. <ul class="resume-item-list"><li>Responsible for all aspects of architecture, development, test strategy and deployment.</li><li>Used tools like Bootstrap, jQuery, Vue.js, AJAX, MySQL, etc. to create a responsive and  interactive web interface.</li><li>Worked with several web APIs like Google Maps, OAuth2.0, PayU, Pusher, MailChimp, etc. to deliver features like Online Payment, SMS, Email and Push Notifications, Order Tracking, etc.</li></ul>
+  duration: July 2015 &mdash; Jan 2017
+  summary: Developed and maintained an e-commerce platform focused on food delivery for Monosoz using PHP (Laravel). As a sole developer, I took it from the first line of code to customers and revenue.
+    <ul class="resume-item-list">
+      <li>Responsible for all aspects of architecture, development, test strategy, and deployment.</li>
+      <li>Used tools like Bootstrap, jQuery, Vue.js, AJAX, MySQL, etc. to create a responsive and  interactive web interface.</li>
+      <li>Worked with several web APIs like Google Maps, OAuth2.0, PayU, Pusher, MailChimp, etc. to deliver features like Online Payment, SMS, Email and Push Notifications, Order Tracking, etc.</li>
+      <li>Played a pivotal role in defining the product roadmap, prioritizing features, and implementing solutions to meet the evolving needs of the business and its customers.</li>
+    </ul>
 
 
 # Freelance
 - company: Freelance Web Development
   position: Web Developer
   duration: Aug, 2014  &mdash; July, 2015
-  summary: As a freelance web developer I was building CMS solutions for clients using Wordpress. As a full stack developer my responsibilities included setting up hosting, domains, databases and delivering an easy to use custom Wordpress theme with custom Templates and Responsive layouts.
+  summary: As a freelance web developer, I built CMS solutions for clients using WordPress. My responsibilities included setting up hosting, domains, deployment, and delivering easy to use custom WordPress themes with custom Templates and Responsive layouts.
