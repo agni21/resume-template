@@ -1,16 +1,27 @@
 # Jobs
+
+# SpotOn
+- company: SpotOn(US) <small>Bengaluru</small>
+  position: Front-End Developer(SDE III)
+  duration: March, 2023 &mdash; Present
+  summary: Working as Front-End Developer
+    <ul class="resume-item-list">
+      <li>Micro frontend architecture</li>
+    </ul>
+
 # Cuspera
 - company: Cuspera <small>Bengaluru</small>
   position: Lead Front-End Developer
-  duration: Feb, 2019 &mdash; Present
-  summary: Starting as a sole frontend developer to leading a team of four, working closely with the product team to understand the business requirement and translate it into feasible tech implementations.
+  duration: Feb, 2019 &mdash; March, 2023
+  summary: Transitioned from sole frontend developer to team leader, guiding a team of four developers. Collaborated closely with the product team to understand business requirements and translate them into feasible technical implementations.
     <ul class="resume-item-list">
-      <li>Maintaining the legacy code base and revamping it to the latest performance standards with gradual changes as the product evolved over the years</li>
-      <li>Scaling the Cuspera website from a few hundred dynamic pages to about forty thousand pages indexed by google</li>
-      <li>Optimizing SEO and performance metrics like Core Web Vitals, Mobile Usability, Accessibility, and keeping it up to date with the latest SEO standards</li>
-      <li>Worked with product and backend teams to design REST APIs</li>
-      <li>Created micro frontend plugins for clients which can be customized according to host branding and requirements</li>
-      <li>Created dashboards for data visualization with access control using Angular, OAuth2, Chart.js, Ngx-Charts</li>
+      <li>Maintained and revamped the legacy codebase to meet the latest performance standards, implementing gradual changes to adapt to the evolving product landscape.</li>
+      <li>Spearheaded the translation of UI/UX designs into executable code, ensuring seamless integration and delivery of user-centric features, ultimately enhancing user experiences.</li>
+      <li>Scalling the Cuspera website from a few hundred dynamic pages to approximately forty thousand indexed pages by Google. Optimized SEO and performance metrics such as Core Web Vitals, Mobile Usability, and Accessibility, while adhering to the latest SEO standards.</li>
+      <li>Introduced micro frontend architecture, streamlining frontend development processes by modularizing components and enabling independent deployment and maintenance of individual features.</li>
+      <li>Collaborated closely with product and backend teams to refine product requirements and design RESTful APIs, ensuring alignment between frontend functionality and backend services.</li>
+      <li>Mentored the testing team to automate end-to-end testing processes using tools like JUnit, TestNG, and Selenium.</li>
+      <li>Designed and developed dashboards for data visualization using Angular, OAuth2, Chart.js, and Ngx-Charts.</li>
     </ul>
 
 # - position: Associate Product Manager
