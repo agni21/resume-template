@@ -12,7 +12,7 @@
   role: Contributor
   year: 2018
   url: https://giraffe.tools/
-  summary: Tools for Graphical Interface for Reproducible Analysis oF workFlow Experiments, Giraffe Tools are applications that make it easier to analyse all kinds of data! <ul class="resume-item-list"><li>Working on Django backend with React at client side.</li><li>Fixed code sourced from parent project and implemented new features.</li><li>Worked on Porcupine Tool to remove jsPlumb dependency.</li></ul>
+  summary: Tools for Graphical Interface for Reproducible Analysis oF workFlow Experiments, Giraffe Tools are applications that make it easier to analyse all kinds of data! <ul class="resume-item-list"><li>Fixed core issues in the Django-React stack, improving stability.</li><li>Refactored code sourced from parent project and implemented new features.</li><li>Worked on Porcupine Tool to remove jsPlumb dependency.</li></ul>
 
 
 # BloodConnect
