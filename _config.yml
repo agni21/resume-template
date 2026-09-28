@@ -45,6 +45,19 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/agniveshpatel/"
   resume_instagram_url:         "https://www.instagram.com/athletic_panda_/"
   resume_website_url:           "http://agnivesh.dev"
+  # resume_medium_url:            "https://medium.com/@username"
+  # resume_bluesky_url:           "https://bsky.app/profile/username"
+  # resume_youtube_url:           "https://www.youtube.com/@username"
+  # resume_mastodon_url:          "https://mastodon.social/@username"
+  # resume_threads_url:           "https://www.threads.net/@username"
+  # resume_wellfound_url:         "https://wellfound.com/u/username"
+  # resume_spotify_url:           "https://open.spotify.com/user/username"
+  # resume_soundcloud_url:        "https://soundcloud.com/username"
+  # resume_tiktok_url:            "https://www.tiktok.com/@username"
+  # resume_pinterest_url:         "https://www.pinterest.com/username/"
+  # resume_snapchat_url:          "https://www.snapchat.com/add/username"
+  # resume_whatsapp_url:          "https://wa.me/15555555555"
+  # resume_vk_url:                "https://vk.com/id000000000"
 resume_print_social_links:      false
 
 # Design settings
