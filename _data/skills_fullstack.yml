@@ -1,0 +1,6 @@
+# Skills shown on /fullstack (main page uses skills.yml)
+- description: <strong>Frontend:</strong> React, TypeScript, JavaScript, Angular, Next.js, Redux, TanStack Query, Micro Frontends, Design Systems, HTML5, CSS3, SASS, Tailwind CSS
+- description: <strong>Backend:</strong> Node.js, Nest.js, REST APIs, Backend-for-Frontend (BFF), Java, Python, PHP (Laravel)
+- description: <strong>Data:</strong> PostgreSQL, MySQL, MongoDB
+- description: <strong>DevOps & Tooling:</strong> GitHub Actions (CI/CD), AWS, Firebase, prerender.io, Webpack, Storybook, React Testing Library, Git
+- description: <strong>Web Platform:</strong> SSR & prerendering, Technical SEO, Web Performance & Core Web Vitals

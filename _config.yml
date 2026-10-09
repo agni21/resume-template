@@ -63,6 +63,13 @@ resume_print_social_links:      false
 # Design settings
 resume_theme:                   default
 
+# Keep private docs (e.g. cover letters) out of the published site.
+# Setting `exclude` replaces Jekyll's defaults, so Gemfile/Gemfile.lock are re-listed here.
+exclude:
+  - docs
+  - Gemfile
+  - Gemfile.lock
+
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts

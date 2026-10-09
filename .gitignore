@@ -2,3 +2,6 @@ _site
 .sass-cache
 .DS_Store
 _vendor
+
+# Private docs (cover letters etc.) - never commit to this public repo
+docs/
