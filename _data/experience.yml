@@ -2,29 +2,29 @@
 
 # SpotOn
 - company: SpotOn(US) <small>Bengaluru</small>
-  position: Front-End Developer(SDE III)
+  position: Senior Software Engineer <small>(promoted from SDE III, April 2026)</small>
   duration: March 2023 &mdash; Present
-  summary: SpotOn, headquartered in San Francisco, California, is a leading developer of software and payment technology for the retail and restaurant sectors.
+  summary: SpotOn, headquartered in San Francisco, California, builds software and payment technology for the retail and restaurant sectors.
     <ul class="resume-item-list">
-      <li><strong>Utilized Micro Frontend architecture with React</strong> to deliver secure, scalable, and modular frontend solutions for payment and banking products, ensuring high performance and maintainability.</li>
-      <li>Collaborated seamlessly with <strong>global product and tech teams</strong> to uphold code standards and ensure alignment across projects.</li>
-      <li>Contributed <strong>UI Components</strong> to the internal design library being used across the company.</li>
-      <li>Working with <strong>React, TypeScript, Redux, Tanstack Query, Yup, Formik, and Storybook</strong> to deliver a dynamic and responsive user interface and streamline development workflows.</li>
+      <li><strong>Maintained and developed 6 React Micro Frontends</strong> for payment and banking products, refactoring them to current architectural patterns. These MFEs are developed by <strong>3 teams (~10 engineers)</strong>.</li>
+      <li>Contributed <strong>10&ndash;15 UI components</strong> to the company-wide <strong>design system used by 5&ndash;6 teams</strong>, and fixed defects in shared components, improving design consistency and speeding up feature development.</li>
+      <li>Built <strong>shared tooling and build setup</strong> for the team's Micro Frontends, later <strong>adopted by another team</strong>.</li>
+      <li><strong>Mentored 3 engineers</strong>, and worked with <strong>global product and engineering teams</strong> to keep code standards aligned across projects.</li>
+      <li>Stack &mdash; <strong>React, TypeScript, Redux, TanStack Query, Formik, Yup, Storybook</strong>.</li>
     </ul>
 
 # Cuspera
 - company: Cuspera <small>Bengaluru</small>
   position: Lead Front-End Developer
   duration: Feb 2019 &mdash; March 2023
-  summary: Transitioned from sole frontend developer to leading a team of four, overseeing project development and ensuring alignment with business objectives.
+  summary: Grew from sole frontend developer to <strong>technical lead of a 4-engineer frontend team</strong>, setting technical direction and code standards, owning delivery, and taking part in hiring.
     <ul class="resume-item-list">
-      <li>Maintained and revamped the <strong>legacy Angular codebase</strong> to meet the latest performance standards, implementing gradual changes to adapt to the evolving product landscape.</li>
-      <li><strong>Spearheaded the translation of UI/UX designs</strong> into executable code, ensuring seamless integration and delivery of user-centric features, ultimately enhancing user experiences.</li>
-      <li><strong>Scaled the Cuspera website</strong> from a few hundred dynamic pages to approximately <strong>40,000 indexed pages</strong> by Google. Optimized <strong>SEO and Core Web Vitals</strong>, Mobile Usability, and Accessibility, while adhering to the latest SEO standards.</li>
-      <li>Introduced <strong>micro frontend architecture</strong>, streamlining frontend development processes by modularizing components and enabling independent deployment and maintenance of individual features.</li>
-      <li>Collaborated closely with product and backend teams to refine product requirements and design <strong>RESTful APIs</strong>, ensuring alignment between frontend functionality and backend services.</li>
-      <li>Mentored the testing team to automate <strong>end-to-end testing</strong> using tools like <strong>JUnit, TestNG, and Selenium</strong>.</li>
-      <li>Designed and developed <strong>dashboards for data visualization using Angular, OAuth2, Chart.js, and Ngx-Charts</strong>.</li>
+      <li><strong>Designed and introduced a Micro Frontend architecture of 7 MFEs</strong>, modularizing the frontend and enabling independent deployment and maintenance of features.</li>
+      <li><strong>Scaled the Cuspera website</strong> from a few hundred dynamic pages to <strong>~40,000 Google-indexed pages</strong>, leading work on <strong>SEO, Core Web Vitals</strong>, mobile usability, and accessibility.</li>
+      <li>Modernized the <strong>legacy Angular codebase</strong> incrementally to current performance standards while product development continued.</li>
+      <li>Worked with product and backend teams to refine requirements and design <strong>RESTful APIs</strong>, keeping frontend and backend services aligned.</li>
+      <li>Mentored the QA team to automate <strong>end-to-end testing</strong> with <strong>JUnit, TestNG, and Selenium</strong>.</li>
+      <li>Built <strong>data visualization dashboards</strong> with <strong>Angular, OAuth2, Chart.js, and Ngx-Charts</strong>.</li>
     </ul>
 
 # - position: Associate Product Manager
@@ -39,42 +39,31 @@
   duration: April 2018 &mdash; Feb 2019
   summary:
     <ul class="resume-item-list">
-      <li>Maintained and implemented incremental changes to a <strong>multi-page web app</strong> using <strong>Java and Handlebars</strong> for GlowRoad.com, an e-commerce reselling platform that was later acquired by Amazon.</li>
-      <li>Led the reconstruction of the existing multi-shop e-commerce web app, MyShopPrime.com, within a 6-month timeframe using <strong>React and Redux</strong>. Executed a comprehensive <strong>user experience redesign</strong>, resulting in a remarkable <strong>40% reduction in bounce rate</strong> and notable improvements in other performance metrics.</li>
-      <li>Collaborated closely with the product team to establish a <strong>design system</strong> for MyShopPrime.com and actively contributed to the development of frontend modules using React.</li>
-      <li>Implemented various features including <strong>shopping cart, incentives, order fulfillment</strong>, and seamless integration with <strong>Facebook shop</strong> to enhance user engagement and drive sales.</li>
-      <li>Spearheaded <strong>SEO optimization initiatives</strong>, including the implementation of <strong>Accelerated Mobile Pages (AMP)</strong> for frequently visited pages, to improve search engine visibility and website performance.</li>
-      <li>Engineered a <strong>real-time notifications system using WebSocket</strong> connections to deliver timely updates to users, thereby enhancing user engagement and retention.</li>
-      <li>Integrated <strong>third-party APIs</strong> such as <strong>Gupshup SMS API, ECOM Express delivery API</strong>, and email, SMS, and push notification services.</li>
+      <li><strong>Led the 6-month rebuild of MyShopPrime.com</strong>, a multi-shop e-commerce web app, porting legacy Java pages to <strong>React and Redux</strong> with a full UX redesign. The rebuild <strong>cut bounce rate by 40%</strong> and improved page performance.</li>
+      <li>Worked with the product team to set up a <strong>design system</strong> for MyShopPrime, and built core commerce features including <strong>shopping cart, incentives, order fulfillment</strong>, and <strong>Facebook Shop</strong> integration.</li>
+      <li>Led <strong>SEO work</strong>, including <strong>Accelerated Mobile Pages (AMP)</strong> for high-traffic pages, and built <strong>real-time notifications over WebSockets</strong>.</li>
+      <li>Maintained GlowRoad.com (<strong>Java, Handlebars</strong>) and integrated third-party services such as <strong>Gupshup SMS</strong>, <strong>Ecom Express delivery</strong>, and email and push notifications.</li>
     </ul>
 
 # Betatest
 - company: Betatest Solutions Pvt Ltd <small>Bengaluru</small>
   position: Software Engineer
   duration: Jan 2017 &mdash; April 2018
-  summary: Collaborated with a diverse range of clients on web applications, focusing on developing, deploying, and maintaining new products while enhancing existing ones with real-time features.
-    <ul class="resume-item-list">
-      <li>Provided <strong>technical support</strong> to clients, ensuring their needs were met effectively and their applications ran smoothly.</li>
-      <li>Worked closely with the design team to translate <strong>UI/UX design wireframes</strong> into functional code, prioritizing <strong>responsive design</strong> and cross-browser compatibility.</li>
-      <li><strong>SEO-friendly Single Page Applications, Firebase, AWS, Serverless Image Handlers</strong></li>
-      <li>Working with a stack including, but not limited to, <strong>jQuery, Bootstrap, WordPress, PHP, Ruby on Rails, and MySQL</strong>.</li>
-    </ul>
+  summary: Built and maintained web applications for multiple clients, including <strong>SEO-friendly Single Page Applications</strong> on <strong>Firebase and AWS</strong> (serverless image handling), using <strong>jQuery, React.js, Bootstrap, WordPress, PHP, Ruby on Rails, and MySQL</strong>.
 
 # Monosoz
 - company: Monosoz <small>New Delhi</small>
   position: Co-Founder & CTO
   duration: July 2015 &mdash; Jan 2017
-  summary: Developed and maintained an e-commerce platform focused on food delivery for Monosoz using PHP (Laravel). As a sole developer, I took it from the first line of code to customers and revenue.
+  summary: As sole developer, took a food-delivery e-commerce platform from the first line of code to paying customers and revenue.
     <ul class="resume-item-list">
-      <li>Responsible for all aspects of <strong>architecture, development, test strategy, and deployment</strong>.</li>
-      <li>Used tools like <strong>Bootstrap, jQuery, Vue.js, AJAX, MySQL</strong> to create a <strong>responsive and interactive web interface</strong>.</li>
-      <li>Worked with several <strong>web APIs</strong> like <strong>Google Maps, OAuth2.0, PayU, Pusher, MailChimp</strong>, etc., to deliver features like <strong>Online Payment, SMS, Email and Push Notifications, Order Tracking</strong>, etc.</li>
-      <li>Played a pivotal role in defining the <strong>product roadmap</strong>, prioritizing features, and implementing solutions to meet the evolving needs of the business and its customers.</li>
+      <li>Owned <strong>architecture, development, test strategy, and deployment</strong> end to end, using <strong>PHP (Laravel), jQuery, and MySQL</strong>.</li>
+      <li>Defined the <strong>product roadmap</strong> and prioritized features as business and customer needs changed.</li>
+      <li>Delivered <strong>online payments, order tracking, and SMS, email, and push notifications</strong> by integrating <strong>Google Maps, OAuth 2.0, PayU, Pusher, and MailChimp</strong>.</li>
     </ul>
-
 
 # Freelance
 - company: Freelance Web Development
   position: Web Developer
   duration: Aug, 2014  &mdash; July, 2015
-  summary: As a freelance web developer, I built CMS solutions for clients using <strong>WordPress</strong>. My responsibilities included <strong>setting up hosting, domains, deployment</strong>, and delivering easy-to-use custom <strong>WordPress themes</strong> with custom Templates and Responsive layouts.
+  summary: Built <strong>WordPress</strong> sites and themes with custom Templates and Responsive layouts for clients, including hosting, domains, and deployment.
