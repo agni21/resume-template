@@ -9,6 +9,7 @@
       <li>Developed and owned <strong>6 payment and banking Micro Frontends</strong>, moving them onto a new MFE setup and refactoring them to current patterns; 3 teams (~10 engineers) work in these codebases.</li>
       <li>Built <strong>10&ndash;15 components</strong> for the org-wide design system, and fix bugs in shared components owned by other teams.</li>
       <li>Set up shared tooling and build configuration for our MFEs, which <strong>a second team has since adopted</strong>.</li>
+      <li>Set up and maintain <strong>GitHub Actions CI/CD pipelines</strong> for our MFEs and their integration into the company's Python-based host dashboard, including small changes to the host itself.</li>
       <li>Mentor <strong>3 engineers</strong> and work with product and engineering teams across regions to keep code standards consistent.</li>
     </ul>
     <em>React &middot; TypeScript &middot; Redux &middot; TanStack Query &middot; Formik &middot; Yup &middot; Storybook</em>
@@ -19,7 +20,6 @@
       <li>Built <strong>10&ndash;15 components</strong> for the org-wide design system, and fix bugs in shared components owned by other teams.</li>
       <li>Set up shared tooling and build configuration for our MFEs, which <strong>a second team has since adopted</strong>.</li>
       <li>On the backend, add and extend endpoints in a <strong>Nest.js backend-for-frontend</strong> that proxies payment and banking APIs and holds the business logic and <strong>PostgreSQL</strong> data access for our MFEs.</li>
-      <li>Maintain <strong>GitHub Actions CI/CD pipelines</strong> for our MFEs and their integration into the company's Python-based host dashboard, including small changes to the host itself.</li>
       <li>Mentor <strong>3 engineers</strong> and work with product and engineering teams across regions to keep code standards consistent.</li>
     </ul>
     <em>React &middot; TypeScript &middot; Redux &middot; TanStack Query &middot; Storybook &middot; Nest.js &middot; PostgreSQL &middot; GitHub Actions</em>
