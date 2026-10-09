@@ -6,25 +6,25 @@
   duration: March 2023 &mdash; Present
   summary: SpotOn, headquartered in San Francisco, California, builds software and payment technology for the retail and restaurant sectors.
     <ul class="resume-item-list">
-      <li><strong>Maintained and developed 6 React Micro Frontends</strong> for payment and banking products, refactoring them to current architectural patterns. These MFEs are developed by <strong>3 teams (~10 engineers)</strong>.</li>
-      <li>Contributed <strong>10&ndash;15 UI components</strong> to the company-wide <strong>design system used by 5&ndash;6 teams</strong>, and fixed defects in shared components, improving design consistency and speeding up feature development.</li>
-      <li>Built <strong>shared tooling and build setup</strong> for the team's Micro Frontends, later <strong>adopted by another team</strong>.</li>
-      <li><strong>Mentored 3 engineers</strong>, and worked with <strong>global product and engineering teams</strong> to keep code standards aligned across projects.</li>
-      <li>Stack &mdash; <strong>React, TypeScript, Redux, TanStack Query, Formik, Yup, Storybook</strong>.</li>
+      <li>Developed and owned <strong>6 payment and banking Micro Frontends</strong>, moving them onto a new MFE setup and refactoring them to current patterns; 3 teams (~10 engineers) work in these codebases.</li>
+      <li>Built <strong>10&ndash;15 components</strong> for the org-wide design system, and fix bugs in shared components owned by other teams.</li>
+      <li>Set up shared tooling and build configuration for our MFEs, which <strong>a second team has since adopted</strong>.</li>
+      <li>Mentor <strong>3 engineers</strong> and work with product and engineering teams across regions to keep code standards consistent.</li>
     </ul>
+    <em>React &middot; TypeScript &middot; Redux &middot; TanStack Query &middot; Formik &middot; Yup &middot; Storybook</em>
 
 # Cuspera
 - company: Cuspera <small>Bengaluru</small>
   position: Lead Front-End Developer
   duration: Feb 2019 &mdash; March 2023
-  summary: Grew from sole frontend developer to <strong>technical lead of a 4-engineer frontend team</strong>, setting technical direction and code standards, owning delivery, and taking part in hiring.
+  summary: Joined as the only frontend developer and became <strong>technical lead of a 4-engineer team</strong> &mdash; set technical direction and code standards, owned delivery, and helped hire.
     <ul class="resume-item-list">
-      <li><strong>Designed and introduced a Micro Frontend architecture of 7 MFEs</strong>, modularizing the frontend and enabling independent deployment and maintenance of features.</li>
-      <li><strong>Scaled the Cuspera website</strong> from a few hundred dynamic pages to <strong>~40,000 Google-indexed pages</strong>, leading work on <strong>SEO, Core Web Vitals</strong>, mobile usability, and accessibility.</li>
-      <li>Modernized the <strong>legacy Angular codebase</strong> incrementally to current performance standards while product development continued.</li>
-      <li>Worked with product and backend teams to refine requirements and design <strong>RESTful APIs</strong>, keeping frontend and backend services aligned.</li>
-      <li>Mentored the QA team to automate <strong>end-to-end testing</strong> with <strong>JUnit, TestNG, and Selenium</strong>.</li>
-      <li>Built <strong>data visualization dashboards</strong> with <strong>Angular, OAuth2, Chart.js, and Ngx-Charts</strong>.</li>
+      <li>Designed and introduced a <strong>7-app Micro Frontend architecture</strong> so features could be built and deployed independently.</li>
+      <li>Grew the site from a few hundred dynamic pages to <strong>~40,000 indexed by Google</strong> through SEO, Core Web Vitals, mobile usability, and accessibility work.</li>
+      <li>Modernized the legacy Angular codebase step by step, without pausing product work.</li>
+      <li>Designed REST APIs together with the product and backend teams.</li>
+      <li>Taught the QA team to automate end-to-end tests with JUnit, TestNG, and Selenium.</li>
+      <li>Built data visualization dashboards with Angular, OAuth2, Chart.js, and Ngx-Charts.</li>
     </ul>
 
 # - position: Associate Product Manager
@@ -39,7 +39,7 @@
   duration: April 2018 &mdash; Feb 2019
   summary:
     <ul class="resume-item-list">
-      <li><strong>Led the 6-month rebuild of MyShopPrime.com</strong>, a multi-shop e-commerce web app, porting legacy Java pages to <strong>React and Redux</strong> with a full UX redesign. The rebuild <strong>cut bounce rate by 40%</strong> and improved page performance.</li>
+      <li>Led the <strong>6-month rebuild of MyShopPrime.com</strong>, moving it from legacy Java pages to React and Redux with a full UX redesign. <strong>Bounce rate dropped 40%.</strong></li>
       <li>Worked with the product team to set up a <strong>design system</strong> for MyShopPrime, and built core commerce features including <strong>shopping cart, incentives, order fulfillment</strong>, and <strong>Facebook Shop</strong> integration.</li>
       <li>Led <strong>SEO work</strong>, including <strong>Accelerated Mobile Pages (AMP)</strong> for high-traffic pages, and built <strong>real-time notifications over WebSockets</strong>.</li>
       <li>Maintained GlowRoad.com (<strong>Java, Handlebars</strong>) and integrated third-party services such as <strong>Gupshup SMS</strong>, <strong>Ecom Express delivery</strong>, and email and push notifications.</li>
@@ -66,4 +66,4 @@
 - company: Freelance Web Development
   position: Web Developer
   duration: Aug, 2014  &mdash; July, 2015
-  summary: Built <strong>WordPress</strong> sites and themes with custom Templates and Responsive layouts for clients, including hosting, domains, and deployment.
+  summary: Built <strong>WordPress</strong> sites and themes with custom templates and responsive layouts for clients, including hosting, domains, and deployment.

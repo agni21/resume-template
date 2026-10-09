@@ -16,7 +16,7 @@ resume_contact_email:           "agniveshpatel@gmail.com"
 resume_contact_telephone:       "+91 83180 92773"
 resume_contact_address:         "Bengaluru, India"
 resume_header_contact_info: "Bengaluru, India | +91 83180 92773 <br> agniveshpatel@gmail.com | linkedin.com/in/agniveshpatel"
-resume_header_intro: "<p><strong>Senior Software Engineer</strong> with <strong>12 years</strong> of experience building frontend platforms and architectures for web products. Designed and introduced a <strong>Micro Frontend architecture</strong>, scaled a web platform to <strong>~40,000 Google-indexed pages</strong>, and contributed to a <strong>design system used accross the organization</strong>. Deep expertise in <strong>React, TypeScript, and Angular</strong>, with experience as a <strong>technical lead</strong>, mentoring engineers, and building <strong>shared tooling adopted across teams</strong>.</p>"
+resume_header_intro: "<p>Frontend engineer with <strong>12 years</strong> of experience, focused on architecture and the shared systems other engineers build on. Designed Cuspera's <strong>7-app Micro Frontend architecture</strong> from scratch and grew its site from a few hundred pages to <strong>~40,000 indexed by Google</strong>. Currently at SpotOn, developing and owning payment and banking Micro Frontends, contributing to the org-wide design system, and mentoring engineers.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
